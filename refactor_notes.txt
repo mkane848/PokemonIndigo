@@ -1,0 +1,24 @@
+- :: references to Pkmn or item names
+- encounterType Land + encounter data
+- pbItemBall(::<itemName>)  ->  pbItemBall(:<itemName>)
+- pbPlayCry(PBSpecies::<PKMN>) -> Pokemon.play_cry(:<PKMN>)
+- Trainer Intro ME -> Trainer IntroBGM 
+- AI_MoveEffects has_active_ability?
+- hasType()
+- Pikachu Mega Form?
+
+
+BUGS
+1. Pokemon jump/dust? animation is off, the landing part of the jump cloud is too low
+2. Surfing being on without pokemon is a debug feature, right?
+3. 2nd pokemon not properly going out for double battle?
+    - Mewtwo sprite goes out, Zoroark moveset loads?
+    - Used one move then it corrected itself
+4. Move Deleter/Rememberer
+5. Shops/Paralyze Heal
+6. Put custom item assets back in (no thumbnail when hovering item in Bag)
+---
+
+IDEAS
+1. Randomize gym leaders but preserve their types, make sure their last Pkmn is their "boss"
+2. Generation on/off from debug

@@ -819,8 +819,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[110]   # Camino de Bicis
-Name = Camino de Bicis
+[110]   # Cycling Road
+Name = Cycling Road
 SnapEdges = true
 BattleBack = field
 MapPosition = 0,11,13
@@ -832,8 +832,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[111]   # Camino de Bicis
-Name = Camino de Bicis
+[111]   # Cycling Road
+Name = Cycling Road
 SnapEdges = true
 BattleBack = field
 MapPosition = 0,11,16
@@ -901,8 +901,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[117]   # Dojo Azafrán
-Name = Dojo Azafrán
+[117]   # Fighting Dojo
+Name = Fighting Dojo
 BattleBack = indoor
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador

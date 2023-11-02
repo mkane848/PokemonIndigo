@@ -1,14 +1,22 @@
-- :: references to Pkmn or item names
-- encounterType Land + encounter data
-- pbItemBall(::<itemName>)  ->  pbItemBall(:<itemName>)
-- pbPlayCry(PBSpecies::<PKMN>) -> Pokemon.play_cry(:<PKMN>)
-- Trainer Intro ME -> Trainer IntroBGM 
-- AI_MoveEffects has_active_ability?
-- hasType()
-- Pikachu Mega Form?
+General Notes:
+- :: references to Pkmn or item names need to be removed
+    ex.  pbPlayCry(PBSpecies::<PKMN>) -> Pokemon.play_cry(:<PKMN>)
+         pbItemBall(::<itemName>)  ->  pbItemBall(:<itemName>)
+- hasType(), hasItem(), etc. can replace janky code
+    > $player.has_pokemon_of_type?(:TYPE)
+- Replace pbItemBall() with pbReceiveItem() when getting an item FROM someone, 2nd arg can be given for quantity
+- Are double battles working correctly? Should I be in a 2v1, or am I supposed to be fighting alongside someone?
+    ex. Erika & the 2 bikers fight
 
 
-BUGS
+Customizations to fix/update:
+1. Custom Megas 
+    - Pikachu
+    - Lapras
+    - Machamp
+
+
+BUGS/TODO
 1. Pokemon jump/dust? animation is off, the landing part of the jump cloud is too low
 2. Surfing being on without pokemon is a debug feature, right?
 3. 2nd pokemon not properly going out for double battle?
@@ -17,6 +25,12 @@ BUGS
 4. Move Deleter/Rememberer
 5. Shops/Paralyze Heal
 6. Put custom item assets back in (no thumbnail when hovering item in Bag)
+7. ESCALADA interaction does not trigger
+    - Assuming its similar to 
+8. EBDX missing/broken assets
+    - AI_MoveEffects has_active_ability?
+9. Encounter data reformat
+10. Move all of the Trainer EndSpeech text from the Event and into the Trainer info
 ---
 
 IDEAS

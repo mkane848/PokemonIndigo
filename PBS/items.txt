@@ -8006,3 +8006,27 @@ Price = 0
 Description = Its aroma is intoxicating.
 Flags = KeyItem
 #-------------------------------
+[SURFMONTURA]
+Name = Surf Mount
+NamePlural = Surf Mounts
+Pocket = 8
+Price = 0
+Description = Allows you to navigate through the water
+Flags = KeyItem
+#-------------------------------
+[TMAGN1]
+Name = Magnetic Card 1
+NamePlural = Magnetic Card 1
+Pocket = 8
+Price = 0
+Description = Combined with another card, it allows you to open doors in Silph Co.
+Flags = KeyItem
+#-------------------------------
+[TMAGN2]
+Name = Magnetic Card 1
+NamePlural = Magnetic Card 1
+Pocket = 8
+Price = 0
+Description = Combined with another card, it allows you to open doors in Silph Co.
+Flags = KeyItem
+#-------------------------------

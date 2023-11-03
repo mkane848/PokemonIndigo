@@ -889,8 +889,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[116]   # Isla Canela
-Name = Isla Canela
+[116]   # Cinnabar Island
+Name = Cinnabar Island
 SnapEdges = true
 BattleBack = beach
 MapPosition = 0,7,18
@@ -910,11 +910,11 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[118]   # Laboratorio Canela
-Name = Laboratorio Canela
+[118]   # Cinnabar Lab
+Name = Cinnabar Lab
 #-------------------------------
-[119]   # Mansión Quemada
-Name = Mansión Quemada
+[119]   # Pokémon Mansion
+Name = Pokémon Mansion
 BattleBack = indoor2
 MapPosition = 0,6,11
 ShowArea = true
@@ -923,8 +923,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[120]   # Mansión Quemada
-Name = Mansión Quemada
+[120]   # Pokémon Mansion
+Name = Pokémon Mansion
 BattleBack = indoor2
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -932,8 +932,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[121]   # Mansión Quemada
-Name = Mansión Quemada
+[121]   # Pokémon Mansion
+Name = Pokémon Mansion
 BattleBack = indoor1
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -941,8 +941,8 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[122]   # Mansión Quemada
-Name = Mansión Quemada
+[122]   # Pokémon Mansion
+Name = Pokémon Mansion
 BattleBack = indoor1
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador

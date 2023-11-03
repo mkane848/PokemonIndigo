@@ -31,6 +31,9 @@ BUGS/TODO
     - AI_MoveEffects has_active_ability?
 9. Encounter data reformat
 10. Move all of the Trainer EndSpeech text from the Event and into the Trainer info
+11. pbWildBattle -> WildBattle.start
+12. Double check trainer Event Touch vs Action Button to trigger trainer battles, some seem wrong
+13. $player.has_species?
 ---
 
 IDEAS

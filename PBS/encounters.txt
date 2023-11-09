@@ -376,3 +376,93 @@ LandClassic,12
     18,WEEZING,54,56
     2,DITTO,54,56
 #-------------------------------
+
+#---
+[168] # Celestial Cave 12,2,2
+Land,12
+    20,CARBINK,56,58
+    20,PARASECT,56,58
+    20,KADABRA,56,58
+    20,REUNICLUS,56,58
+    18,AGGRON,56,58
+    2,METANG,56,58
+LandClassic,12
+    20,MACHOKE,56,58
+    20,PARASECT,56,58
+    20,KADABRA,56,58
+    20,HYPNO,56,58
+    18,MAGNETON,56,58
+    2,MAGNEZONE,56,58
+OldRod
+    70,GOLISOPOD,56,58
+    30,BRUXISH,56,58
+OldRodClassic
+    70,SLOWKING,56,58
+    30,STARMIE,56,58
+#-------------------------------
+[169] # Celestial Cave 12,2,2
+Land,12
+    20,CHIMECHO,56,58
+    20,WOBBUFFET,56,58
+    20,KADABRA,56,58
+    20,GOTHITELLE,56,58
+    18,AGGRON,56,58
+    2,METANG,56,58
+LandClassic,12
+    20,PRIMEAPE,56,58
+    20,WOBBUFFET,56,58
+    20,KADABRA,56,58
+    20,RHYDON,56,58
+    18,MAGNETON,56,58
+    2,MAGNEZONE,56,58
+OldRod
+    70,GOLISOPOD,56,58
+    30,BRUXISH,56,58
+OldRodClassic
+    70,SLOWKING,56,58
+    30,STARMIE,56,58
+#-------------------------------
+[170] # Celestial Cave 12,2,2
+Land,12
+    20,MEOWSTIC,57,59
+    20,DOUBLADE,57,59
+    20,KADABRA,57,59
+    20,GRIMMSNARL,57,59
+    18,AGGRON,57,59
+    2,METANG,57,59
+LandClassic,12
+    20,MAROWAK,57,59
+    20,VENOMOTH,57,59 
+    20,KADABRA,57,59
+    20,LICKILICKY,57,59
+    18,MAGNETON,57,59 
+    2,MAGNEZONE,57,59
+OldRod
+    70,GOLISOPOD,57,59
+    30,BRUXISH,57,59
+OldRodClassic
+    70,SLOWKING,57,59
+    30,STARMIE,57,59
+#-------------------------------
+[174] # Celestial Forest  12,2,2
+Land,12
+    20,MEOWSTIC,58,60 
+    20,MUSHARNA,58,60
+    20,ALAKAZAM,58,60
+    20,GRIMMSNARL,58,60
+    18,ORBEETLE,58,60 
+    2,METANG,58,60 
+LandClassic,12
+    20,CLEFABLE,58,60
+    20,VENOMOTH,58,60
+    20,ALAKAZAM,58,60
+    20,LICKILICKY,58,60
+    18,MAGNETON,58,60
+    2,MAGNEZONE,58,60
+OldRod
+    70,GOLISOPOD,58,60
+    30,BRUXISH,58,60
+OldRodClassic
+    70,SLOWKING,58,60
+    30,STARMIE,58,60
+#-------------------------------

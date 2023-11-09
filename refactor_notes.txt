@@ -35,6 +35,8 @@ BUGS/TODO
 11. pbWildBattle -> WildBattle.start
 12. Double check trainer Event Touch vs Action Button to trigger trainer battles, some seem wrong
 13. $player.has_species?
+14. Double check all instances of frame-rate being locked then frame-waiting
+    - Essentials moved away from frame-based timing, need to look at how this affects things
 ---
 
 IDEAS

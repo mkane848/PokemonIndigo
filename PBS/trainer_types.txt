@@ -66,28 +66,28 @@ SkillLevel = 78
 Name = Cazabichos
 Gender = Male
 BaseMoney = 50
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 SkillLevel = 31
 #-------------------------------
 [CAZABICHAS]
 Name = Cazabichos 
 Gender =  Female
 BaseMoney = 50
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 SkillLevel = 31
 #-------------------------------
 [CAMPISTO]
 Name = Campista
 Gender = Male
 BaseMoney = 50
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 SkillLevel = 31
 #-------------------------------
 [CAMPISTA]
 Name = Campista
 Gender = Female
 BaseMoney = 50
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 SkillLevel = 31
 #-------------------------------
 [LIDER1]
@@ -102,14 +102,14 @@ SkillLevel = 98
 Name = Chico
 Gender = Male
 BaseMoney = 70
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 SkillLevel = 31
 #-------------------------------
 [CHICA] 
 Name = Chica
 Gender = Female
 BaseMoney = 70
-BattleBGM = EncuentroFemenino
+IntroBGM = EncuentroFemenino
 SkillLevel = 31
 #-------------------------------
 [CEREBRITO]
@@ -252,14 +252,14 @@ SkillLevel = 78
 [MECANICO]
 Name = Mecánico
 BaseMoney = 100
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 Gender = Male
 SkillLevel = 47
 #-------------------------------
 [MECANICA]
 Name = Mecánica
 BaseMoney = 100
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 Gender = Female
 SkillLevel = 47
 #-------------------------------
@@ -303,7 +303,7 @@ SkillLevel = 78
 [PESCADORA]
 Name = Pescadora
 BaseMoney = 90
-BattleBGM = EncuentroFemenino
+IntroBGM = EncuentroFemenino
 Gender = Female
 SkillLevel = 47
 #-------------------------------
@@ -340,7 +340,7 @@ SkillLevel = 78
 [DAMISELA]
 Name = Damisela
 BaseMoney = 150
-BattleBGM = EncuentroFemenino
+IntroBGM = EncuentroFemenino
 Gender = Female
 SkillLevel = 78
 #-------------------------------
@@ -362,7 +362,7 @@ SkillLevel = 98
 [DUOLUCHA]
 Name = Cuerpo y Mente
 BaseMoney = 100
-BattleBGM = EncuentroJoven
+IntroBGM = EncuentroJoven
 Gender = Female
 SkillLevel = 47
 #-------------------------------

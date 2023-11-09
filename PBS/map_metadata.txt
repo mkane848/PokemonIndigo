@@ -369,8 +369,8 @@ WildVictoryBGM=VictoriaSalvaje
 [041]   # House
 Name = House
 #-------------------------------
-[042] # Cerulean Pokémon Gym
-Name = Cerulean Pokémon Gym
+[042] # Pewter Gym
+Name = Pewter Gym
 BattleBack = G3
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -417,8 +417,8 @@ Name = House
 [055]   # Subterráneo
 Name = Subterráneo
 #-------------------------------
-[056]   # Pokémon Gym
-Name = Pokémon Gym
+[056]   # Pokemon Gym
+Name = Pokemon Gym
 MapPosition = 0,17,10
 BattleBack = elite3
 MapPosition = 0,6,11
@@ -427,9 +427,14 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
-[057]   # Gimnasio Pokémon
-Name = Battle Frontier
-MapPosition = 0,17,10
+[057]   # Cerulean Gym
+Name = Cerulean Gym
+MapPosition = 0,6,11
+BattleBack = elite3
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
 #-------------------------------
 [058]   # S.S. Anne
 Name = S.S. Anne
@@ -986,8 +991,8 @@ Name = Pokémon Center
 [130]   # Seafoam Island
 Name = Seafoam Island
 #-------------------------------
-[131]  # Pokémon Gym
-Name = Pokémon Gym
+[131]  # Cinnabar Gym
+Name = Cinnabar Gym
 BattleBack = elite8
 MapPosition = 0,6,11
 TrainerVictoryBGM = VictoriaEntrenador
@@ -1091,6 +1096,65 @@ Name = Central Energía
 BattleBack = indoor2
 ShowArea = true
 MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+
+
+#-------------------------------
+[168]   # Celestial Cave
+Name = Celestial Cave
+BattleBack= cave2
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[169]   # Celestial Cave
+Name = Celestial Cave
+BattleBack = cave2
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[170]   # Celestial Cave
+Name = Celestial Cave
+BattleBack = cave2
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[171]   # House
+Name = House
+#-------------------------------
+[172]   # Pokémon League
+Name = Pokémon League
+#-------------------------------
+[173]   # Pokémon League
+Name = Pokémon League
+SnapEdges = true
+BattleBack = Campeon
+MapPosition = 0,23,6
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[174]   # Celestial Forest
+Name = Celestial Forest
+SnapEdges = true
+BattleBack = BosqueLila
+Outdoor = true
+ShowArea = true
+MapPosition = 0,7,12
 TrainerVictoryBGM = VictoriaEntrenador
 WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador

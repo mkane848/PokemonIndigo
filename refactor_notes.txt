@@ -37,6 +37,8 @@ BUGS/TODO
 13. $player.has_species?
 14. Double check all instances of frame-rate being locked then frame-waiting
     - Essentials moved away from frame-based timing, need to look at how this affects things
+15. Dragonite sprite didnt appear when Lance saves you from Team Rocket?
+16. Issue with ESCALADA = ON Switch?
 ---
 
 IDEAS

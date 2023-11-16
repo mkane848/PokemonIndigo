@@ -1102,6 +1102,43 @@ TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
 
+#-------------------------------
+[154]   # Route 21
+Name = Route 21
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,3,10
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[155]   # Route 22
+Name = Route 22
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,2,14
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[156]   # Route 22
+Name = Route 22
+SnapEdges = true
+BattleBack = field
+MapPosition = 0,3,13
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
 
 #-------------------------------
 [168]   # Celestial Cave
@@ -1155,6 +1192,15 @@ BattleBack = BosqueLila
 Outdoor = true
 ShowArea = true
 MapPosition = 0,7,12
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[182]   #  Viridian Gym
+Name = Viridian Gym
+MapPosition = 0,6,11
+BattleBack = elite8
 TrainerVictoryBGM = VictoriaEntrenador
 WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador

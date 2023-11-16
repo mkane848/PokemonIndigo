@@ -32,13 +32,17 @@ BUGS/TODO
 9. Encounter data reformat
 10. Move all of the Trainer EndSpeech text from the Event and into the Trainer info
     - See what trainers have mid-fight dialogue
-11. pbWildBattle -> WildBattle.start
+11. pbWildBattle -> WildBattle.start + check arguments:
+    - Ariados in Viridian Gym
 12. Double check trainer Event Touch vs Action Button to trigger trainer battles, some seem wrong
 13. $player.has_species?
 14. Double check all instances of frame-rate being locked then frame-waiting
     - Essentials moved away from frame-based timing, need to look at how this affects things
 15. Dragonite sprite didnt appear when Lance saves you from Team Rocket?
 16. Issue with ESCALADA = ON Switch?
+17. Rework the Battlebacks and BGM, see what can be preserved from Anil
+18. Armored Mewtwo fight - nota del juego - este combate no se tiene en cuenta en el reto Nuzlocke
+    -game note - this fight does not count towards the Nuzlocke challenge
 ---
 
 IDEAS

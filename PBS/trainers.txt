@@ -5000,3 +5000,159 @@ Pokemon = PINSIR,66
 	IV = 27, 27, 27, 27, 27, 27
 	Happiness = 255
 #-------------------------------
+[GUAY,Galo]
+Pokemon = VAPOREON,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FLAREON,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Galo,1]
+Pokemon = VAPOREON,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FLAREON,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Leda,2]
+Pokemon = CHANSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = BLISSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Leda,1]
+Pokemon = CHANSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = BLISSEY,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[FOTOGRAFA,Rita,2]
+Pokemon = LURANTIS,65
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KINGLER,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[FOTOGRAFA,Rita,1]
+Pokemon = LURANTIS,65
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = KINGLER,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Jill,]
+Pokemon = RAPIDASH,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Jill,1]
+Pokemon = CAMERUPT,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MEDIUM,Calixto]
+Pokemon = STARMIE,66
+	IV = 15, 15, 15, 15, 15, 15
+WYRDEER,66,,,,,,,,,,
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MEDIUM,Calixto,1]
+Pokemon = BEHEEYEM,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = WYRDEER,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MONTANERO,Aaronako]
+Pokemon = SNORLAX,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MAROWAK,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[MONTANERO,Aaronako,1]
+Pokemon = SNORLAX,66
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MAROWAK,66
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[PESCADORA,Maya]
+Pokemon = GOLDUCK,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[PESCADORA,Maya,1]
+Pokemon = GOLDUCK,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Alberto]
+Pokemon = ARIADOS,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FORRETRESS,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Alberto,1]
+Pokemon = ARAQUANID,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = FORRETRESS,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,David]
+Pokemon = ARCANINE,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = STEELIX,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,David,1]
+Pokemon = STOUTLAND,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = STEELIX,67
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Valdés]
+Pokemon = HYPNO,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SKARMORY,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GENGAR,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAY,Valdés,1]
+Pokemon = LUCARIO,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = CORVIKNIGHT,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = GENGAR,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Vera]
+Pokemon = CLEFABLE,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MEGANIUM,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Vera,1]
+Pokemon = CLEFABLE,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = MEGANIUM,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Carol]
+Pokemon = POLIWRATH,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DUDUNSPARCE,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Carol,1]
+Pokemon = SEISMITOAD,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = DUDUNSPARCE,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Seara]
+Pokemon = RHYPERIOR,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SIRFETCHD,68
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = VILEPLUME,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[GUAYA,Seara,1]
+Pokemon = RHYPERIOR,67
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SIRFETCHD,68
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SHIFTRY,68
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------

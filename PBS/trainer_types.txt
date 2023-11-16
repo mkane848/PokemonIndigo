@@ -582,9 +582,34 @@ VictoryBGM = Victoria Importante
 Gender = Male
 SkillLevel = 99
 #-------------------------------
-
+[ROJO5]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateContraFinal
+Gender = Male
+SkillLevel = 98
 #-------------------------------
-
+[HOJA5]
+Name = Rival
+BaseMoney = 100
+BattleBGM = CombateContraFinal
+Gender = Female
+SkillLevel = 98
+#-------------------------------
+[GUAY]
+Name = Aspirante
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 59
+#-------------------------------
+[GUAYA]
+Name = Aspirante
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 59
+#-------------------------------
 
 # 60/255 = 24/100
 # 80/255 = 31/100
@@ -596,8 +621,7 @@ SkillLevel = 99
 
 
 
-# 80,ROJO5,Rival,100,CombateContraFinal.ogg,,,Male,250,
-# 81,HOJA5,Rival,100,CombateContraFinal.ogg,,,Female,250,
+
 # 82,ALTOMANDO1,Alto Mando,150,BatallaLiga.ogg,Victoria Importante.ogg,,Male,250,
 # 83,ALTOMANDO2,Alto Mando,150,BatallaLiga.ogg,Victoria Importante.ogg,,Male,250,
 # 84,ALTOMANDO3,Alto Mando,150,BatallaLiga.ogg,Victoria Importante.ogg,,Male,250,
@@ -605,8 +629,6 @@ SkillLevel = 99
 # 86,CAMPEON,Campeón,150,BatallaCampeon.ogg,VictoriaLiga.ogg,,Male,250,
 # 87,ASH,Maestro Pokémon,150,CombateContraFinal.ogg,VictoriaLiga.ogg,,Male,250,
 # 88,OAK,Profesor,150,CombateContraFinal.ogg,Victoria Importante.ogg,,Male,250,
-# 89,GUAY,Aspirante,100,,,EncuentroDuro.ogg,Male,150,
-# 90,GUAYA,Aspirante,90,,,EncuentroDuro.ogg,Female,150,
 # 93,LIDER1HOENN,Líder Exótico,150,CombateHoenn.ogg,Victoria Importante.ogg,,Male,250,
 # 94,LIDER2HOENN,Líder Exótica,150,CombateHoenn.ogg,Victoria Importante.ogg,,Female,250,
 # 95,LIDER3HOENN,Líder Exótica,150,CombateHoenn.ogg,Victoria Importante.ogg,,Female,250,

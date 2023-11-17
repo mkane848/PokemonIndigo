@@ -376,8 +376,111 @@ LandClassic,12
     18,WEEZING,54,56
     2,DITTO,54,56
 #-------------------------------
+[160] # Mt. Silver  12,2,2
+Land,12
+    20,LARVITAR,64,66
+    20,GOLURK,64,66
+    20,METANG,64,66
+    20,SNEASLER,64,66
+    10,KLAWF,64,66
+    10,ZWEILOUS,64,66
+LandClassic,12
+    20,LARVITAR,64,66
+    20,DONPHAN,64,66
+    20,GOLBAT,64,66
+    20,SNEASLER,64,66
+    20,GOLEM,64,66
+OldRod
+    70,DREDNAW,64,66
+    30,CRAWDAUNT,64,66
+OldRodClassic
+    70,GOLDUCK,64,66
+    30,POLIWHIRL,64,66
+#-------------------------------
+[161] # Mt. Silver 12,2,2
+Land,12
+    20,URSARING,64,66
+    20,GOLURK,64,66
+    20,WYRDEER,64,66
+    20,SNEASLER,64,66
+    10,KLAWF,64,66
+    10,ZWEILOUS,64,66
+LandClassic,12
+    20,URSARING,64,66
+    20,DONPHAN,64,66
+    20,WYRDEER,64,66
+    20,SNEASLER,64,66
+    20,GOLEM,64,66
+OldRod
+    70,DREDNAW,64,66
+    30,CRAWDAUNT,64,66
+OldRodClassic
+    70,GOLDUCK,64,66
+    30,POLIWHIRL,64,66
+#-------------------------------
+[162] # Mt. Silver  12,2,2
+Land,12
+    20,LARVITAR,65,67
+    20,GOLURK,65,67
+    20,METANG,65,67
+    20,ARCTIBAX,65,67
+    20,SNEASLER,65,67
+LandClassic,12
+    20,LARVITAR,65,67
+    20,DONPHAN,65,67
+    20,GOLBAT,65,67
+    20,SNEASLER,65,67
+    20,GOLEM,65,67
+OldRod
+    70,DREDNAW,65,67
+    30,CRAWDAUNT,65,67
+OldRodClassic
+    70,GOLDUCK,65,67
+    30,POLIWHIRL,65,67
+#-------------------------------
+[163] # Mt. Silver  12,2,2
+Land,12
+    20,PUPITAR,65,67
+    20,FROSMOTH,65,67
+    20,METANG,65,67
+    20,ARCTIBAX,65,67
+    20,WEAVILE,65,67
+LandClassic,12
+    20,PUPITAR,65,67
+    20,PILOSWINE,65,67
+    20,GOLBAT,65,67
+    20,WEAVILE,65,67
+    20,GOLEM,65,67
+OldRod
+    70,DREDNAW,65,67
+    30,CRAWDAUNT,65,67
+OldRodClassic
+    70,GOLDUCK,65,67
+    30,POLIWHIRL,65,67
+#-------------------------------
+[164] # Mt. Silver  12,2,2
+Land,12
+    20,PUPITAR,65,67
+    20,SHELGON,65,67
+    20,METANG,65,67
+    20,ARCTIBAX,65,67
+    20,WEAVILE,65,67
+LandClassic,12
+    20,PUPITAR,65,67
+    20,PILOSWINE,65,67
+    20,GOLBAT,65,67
+    20,WEAVILE,65,67
+    20,GOLEM,65,67
+OldRod
+    70,DREDNAW,65,67
+    30,CRAWDAUNT,65,67
+OldRodClassic
+    70,GOLDUCK,65,67
+    30,POLIWHIRL,65,67
+#-------------------------------
 
-#---
+
+#-------------------------------
 [168] # Celestial Cave 12,2,2
 Land,12
     20,CARBINK,56,58

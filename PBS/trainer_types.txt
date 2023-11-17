@@ -610,6 +610,14 @@ IntroBGM = EncuentroDuro
 Gender = Female
 SkillLevel = 59
 #-------------------------------
+[ASH]
+Name = Maestro Pokémon
+BaseMoney = 150
+BattleBGM = CombateContraFinal
+VictoryBGM = VictoriaLiga
+Gender = Male
+SkillLevel = 255
+#-------------------------------
 
 # 60/255 = 24/100
 # 80/255 = 31/100
@@ -627,7 +635,6 @@ SkillLevel = 59
 # 84,ALTOMANDO3,Alto Mando,150,BatallaLiga.ogg,Victoria Importante.ogg,,Male,250,
 # 85,ALTOMANDO4,Alto Mando,150,BatallaLiga.ogg,Victoria Importante.ogg,,Male,250,
 # 86,CAMPEON,Campeón,150,BatallaCampeon.ogg,VictoriaLiga.ogg,,Male,250,
-# 87,ASH,Maestro Pokémon,150,CombateContraFinal.ogg,VictoriaLiga.ogg,,Male,250,
 # 88,OAK,Profesor,150,CombateContraFinal.ogg,Victoria Importante.ogg,,Male,250,
 # 93,LIDER1HOENN,Líder Exótico,150,CombateHoenn.ogg,Victoria Importante.ogg,,Male,250,
 # 94,LIDER2HOENN,Líder Exótica,150,CombateHoenn.ogg,Victoria Importante.ogg,,Female,250,

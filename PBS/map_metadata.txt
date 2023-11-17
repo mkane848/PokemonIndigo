@@ -1139,7 +1139,124 @@ WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
+[157]   # Cataratas Tohjo
+Name = Cataratas Tohjo
+BattleBack = cave
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[158]   # Route 23
+Name = Route 23
+SnapEdges = true
+BattleBack = rocky
+MapPosition = 0,2,10
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[159]   # Pokémon Center
+Name = Pokémon Center
+#-------------------------------
 
+
+#-------------------------------
+[160]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = CuevaAzul
+MapPosition = 0,6,11
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[161]   # Mt. Silver
+Name = Mt. Silver
+MapPosition = 0,6,11
+SnapEdges = true
+BattleBack = rocky
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[162]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = cave3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[163]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,1,8
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[164]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = cave3
+MapPosition = 0,6,11
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[165]   # Mt. Silver
+Name = Mt. Silver
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,1,7
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[166]   # Route 25
+Name = Route 25
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,3,5
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
+#-------------------------------
+[167]   # Indigo City
+Name = Indigo City
+SnapEdges = true
+BattleBack = snow
+MapPosition = 0,3,2
+Outdoor = true
+ShowArea = true
+TrainerVictoryBGM = VictoriaEntrenador
+WildVictoryBGM = VictoriaSalvaje
+TrainerBattleBGM = Entrenador
+WildBattleBGM = Salvaje
 #-------------------------------
 [168]   # Celestial Cave
 Name = Celestial Cave

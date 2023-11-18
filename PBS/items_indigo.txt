@@ -172,3 +172,11 @@ Price = 0
 Description = Combined with another card, it allows you to open doors in Silph Co.
 Flags = KeyItem
 #-------------------------------
+[PLUMAEOLICA]
+Name = Wind Plume
+NamePlural = Wind Plumes
+Pocket = 8
+Price = 0
+Description = The plume always seems to move as if there were a light breeze.
+Flags = KeyItem
+#-------------------------------

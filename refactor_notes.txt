@@ -43,6 +43,7 @@ BUGS/TODO
 17. Rework the Battlebacks and BGM, see what can be preserved from Anil
 18. Armored Mewtwo fight - nota del juego - este combate no se tiene en cuenta en el reto Nuzlocke
     -game note - this fight does not count towards the Nuzlocke challenge
+19. "Aspirante David" walked through a different elevation to challenge in Mt Silver
 ---
 
 IDEAS

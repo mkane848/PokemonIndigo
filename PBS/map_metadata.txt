@@ -1102,6 +1102,8 @@ TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
 #-------------------------------
 
+
+
 #-------------------------------
 [154]   # Route 21
 Name = Route 21
@@ -1163,9 +1165,6 @@ WildBattleBGM = Salvaje
 #-------------------------------
 [159]   # Pokémon Center
 Name = Pokémon Center
-#-------------------------------
-
-
 #-------------------------------
 [160]   # Mt. Silver
 Name = Mt. Silver
@@ -1313,6 +1312,32 @@ TrainerVictoryBGM = VictoriaEntrenador
 WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador
 WildBattleBGM = Salvaje
+#-------------------------------
+[175]   # House
+Name = House
+#-------------------------------
+[176]   # House
+Name = House
+#-------------------------------
+[177]  # House
+Name = House
+#-------------------------------
+
+
+
+
+
+#-------------------------------
+[179]   # Rocket Lair
+Name = Rocket Lair
+#-------------------------------
+[180]   # Indigo Lodge
+Name = Indigo Lodge
+#-------------------------------
+
+
+
+
 #-------------------------------
 [182]   #  Viridian Gym
 Name = Viridian Gym

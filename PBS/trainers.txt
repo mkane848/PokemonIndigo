@@ -6165,3 +6165,93 @@ Pokemon = VENUSAUR,75
     Nature = MODEST
 	IV = 31,31,31,31,31,31
 #-------------------------------
+[OAK,Oak]
+Items = MEGARING
+Pokemon = TAUROS,76
+	Item = LIFEORB
+	Moves = RAGINGBULL,EARTHQUAKE,STONEEDGE,MEGAHORN
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = MUK,76
+	Item = ASSAULTVEST
+	Moves = GUNKSHOT,KNOCKOFF,ICEPUNCH,FIREPUNCH
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = HYPNO,76
+	Item = WIDELENS
+	Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,HYPNOSIS
+	AbilityIndex = 2
+	Nature = CALM
+	IV = 31,31,31,31,31,31
+Pokemon = CELEBI,77
+	Item = SITRUSBERRY
+	Moves = PSYCHIC,GIGADRAIN,AURASPHERE,CALMMIND
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = SNORLAX,77
+	Item = LEFTOVERS
+	Moves = BODYSLAM,CRUNCH,EARTHQUAKE,AMNESIA
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = PIDGEOT,78
+	Item = PIDGEOTITE
+	Moves = HURRICANE,HEATWAVE,FEATHERDANCE,HYPERVOICE
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[ASH,Ash]
+Items = MEGARING
+Pokemon = DRAGONITE,76
+	Item = YACHEBERRY
+	Moves = DRAGONCLAW,EARTHQUAKE,EXTREMESPEED,DRAGONDANCE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = SIRFETCHD,76
+	Item = ASSAULTVEST
+	Moves = CLOSECOMBAT,FIRSTIMPRESSION,BRAVEBIRD,KNOCKOFF
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = DRACOVISH,77
+	Item = MYSTICWATER
+	Moves = LIQUIDATION,OUTRAGE,ICEFANG,DRAGONDANCE
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = GENGAR,77
+	Item = LIFEORB
+	Moves = SHADOWBALL,SLUDGEBOMB,THUNDERBOLT,HYPNOSIS
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,77
+	Item = FOCUSSASH
+	Moves = FLASHCANNON,AURASPHERE,DARKPULSE,NASTYPLOT
+	Nature = TIMID
+	IV = 31,31,31,31,31,31
+Pokemon = PIKACHU,78
+	Item = PIKACHUITE
+	Moves = VOLTTACKLE,IRONTAIL,BRICKBREAK,AQUATAIL
+	Form = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[NADADOR,Xenorth]
+Pokemon = GOLISOPOD,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = STARAPTOR,75
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[NADADOR,Ordono]
+Pokemon = POLIWRATH,80
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SLOWKING,80
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[NADADORA,Luciana]
+Pokemon = AZUMARILL,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = TSAREENA,75
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------

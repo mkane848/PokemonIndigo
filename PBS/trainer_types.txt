@@ -616,7 +616,7 @@ BaseMoney = 150
 BattleBGM = CombateContraFinal
 VictoryBGM = VictoriaLiga
 Gender = Male
-SkillLevel = 255
+SkillLevel = 100
 #-------------------------------
 [ALTOMANDO1]
 Name = Elite Four
@@ -624,7 +624,7 @@ BaseMoney = 150
 BattleBGM = BatallaLiga
 VictoryBGM = Victoria Importante
 Gender = Female
-SkillLevel = 255
+SkillLevel = 100
 #-------------------------------
 [ALTOMANDO2]
 Name = Elite Four
@@ -632,7 +632,7 @@ BaseMoney = 150
 BattleBGM = BatallaLiga
 VictoryBGM = Victoria Importante
 Gender = Male
-SkillLevel = 255
+SkillLevel = 100
 #-------------------------------
 [ALTOMANDO3]
 Name = Elite Four
@@ -640,7 +640,7 @@ BaseMoney = 150
 BattleBGM = BatallaLiga
 VictoryBGM = Victoria Importante
 Gender = Female
-SkillLevel = 255
+SkillLevel = 100
 #-------------------------------
 [ALTOMANDO4]
 Name = Elite Four
@@ -648,7 +648,7 @@ BaseMoney = 150
 BattleBGM = BatallaLiga
 VictoryBGM = Victoria Importante
 Gender = Male
-SkillLevel = 255
+SkillLevel = 100
 #-------------------------------
 [CAMPEON]
 Name = Champion
@@ -656,10 +656,142 @@ BaseMoney = 150
 BattleBGM = BatallaCampeon
 VictoryBGM = VictoriaLiga
 Gender = Male
-SkillLevel = 255
+SkillLevel = 100
+#-------------------------------
+[OAK]
+Name = Profesor
+BaseMoney = 150
+BattleBGM = CombateContraFinal
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER1HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER2HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[LIDER3HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[LIDER4HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER5HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Female
+SkillLevel = 100
+#-------------------------------
+[LIDER6HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER7HOENN]
+Name = Hoenn Leader
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[LIDER8HOENN]
+Name = Hoenn Leaders
+BaseMoney = 150
+BattleBGM = CombateHoenn
+VictoryBGM = Victoria Importante
+Gender = Unknown
+SkillLevel = 100
+#-------------------------------
+[PRISMM]
+Name = Prism Guardian
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 59
+#-------------------------------
+[PRISMF]
+Name = Prism Guardian
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Female
+SkillLevel = 59
+#-------------------------------
+[MAXIMO]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateMaximo
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[CINTIA]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateCintia
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[MIRTO]
+Name = Entrenador
+BaseMoney = 150
+BattleBGM = CombateMirto
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 98
+#-------------------------------
+[DUOPRISMA]
+Name = Prism Guardians
+BaseMoney = 100
+IntroBGM = EncuentroDuro
+Gender = Unknown
+SkillLevel = 59
+#-------------------------------
+[BILL]
+Name = Pokémaniaco
+BaseMoney = 90
+IntroBGM = EncuentroDuro
+Gender = Male
+SkillLevel = 100
+#-------------------------------
+[PRISMA]
+Name = Legendary Hunter
+BaseMoney = 150
+BattleBGM = PrismaBossFinal
+VictoryBGM = Victoria Importante
+Gender = Male
+SkillLevel = 100
 #-------------------------------
 
-
+# Skill Level Updates
 # 60/255 = 24/100
 # 80/255 = 31/100
 # 120/255 = 47/100
@@ -667,26 +799,3 @@ SkillLevel = 255
 # 180/255 - 71/100
 # 200/255 = 78/100
 # 250/255 = 98/100
-
-
-
-
-
-
-# 88,OAK,Profesor,150,CombateContraFinal,Victoria Importante,,Male,250,
-# 93,LIDER1HOENN,Líder Exótico,150,CombateHoenn,Victoria Importante,,Male,250,
-# 94,LIDER2HOENN,Líder Exótica,150,CombateHoenn,Victoria Importante,,Female,250,
-# 95,LIDER3HOENN,Líder Exótica,150,CombateHoenn,Victoria Importante,,Female,250,
-# 96,LIDER4HOENN,Líder Exótico,150,CombateHoenn,Victoria Importante,,Male,250,
-# 97,LIDER5HOENN,Líder Exótica,150,CombateHoenn,Victoria Importante,,Female,250,
-# 98,LIDER6HOENN,Líder Exótico,150,CombateHoenn,Victoria Importante,,Male,250,
-# 99,LIDER7HOENN,Líder Exótico,150,CombateHoenn,Victoria Importante,,Male,250,
-# 100,LIDER8HOENN,Líderes Exóticos,150,CombateHoenn,Victoria Importante,,Male,250,
-# 101,PRISMM,Guardián Prisma,100,,,EncuentroDuro,Male,150,
-# 102,PRISMF,Guardiana Prisma,90,,,EncuentroDuro,Female,150,
-# 103,MAXIMO,Entrenador,150,CombateMaximo,Victoria Importante,,Male,250,
-# 104,CINTIA,Entrenador,150,CombateCintia,Victoria Importante,,Male,250,
-# 105,MIRTO,Entrenador,150,CombateMirto,Victoria Importante,,Male,250,
-# 106,DUOPRISMA,Guardianes Prisma,90,,,EncuentroDuro,Female,150,
-# 107,BILL,Pokémaniaco,90,,,EncuentroDuro,Female,250,
-# 108,PRISMA,Cazalegendarios,150,PrismaBossFinal,Victoria Importante,,Male,250,

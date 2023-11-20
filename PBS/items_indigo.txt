@@ -180,3 +180,30 @@ Price = 0
 Description = The plume always seems to move as if there were a light breeze.
 Flags = KeyItem
 #-------------------------------
+[PIKACHUITE]
+Name = Pikachuite
+NamePlural = Pikachuites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Pikachu hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[LAPRASITE]
+Name = Laprasite
+NamePlural = Laprasites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Lapras hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MACHAMPITE]
+Name = Machampite
+NamePlural = Machampites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Machamp hold it, and it will be able to Mega Evolve.
+#-------------------------------

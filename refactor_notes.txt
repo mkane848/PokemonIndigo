@@ -44,8 +44,8 @@ BUGS/TODO
 18. Armored Mewtwo fight - nota del juego - este combate no se tiene en cuenta en el reto Nuzlocke
     -game note - this fight does not count towards the Nuzlocke challenge
 19. "Aspirante David" walked through a different elevation to challenge in Mt Silver
+20. Check Ash's Pikachu form
 ---
-
 IDEAS
 1. Randomize gym leaders but preserve their types, make sure their last Pkmn is their "boss"
 2. Generation on/off from debug

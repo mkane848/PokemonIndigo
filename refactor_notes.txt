@@ -1,51 +1,76 @@
 General Notes:
 - :: references to Pkmn or item names need to be removed
-    ex.  pbPlayCry(PBSpecies::<PKMN>) -> Pokemon.play_cry(:<PKMN>)
-         pbItemBall(::<itemName>)  ->  pbItemBall(:<itemName>)
+    ex.  pbItemBall(PBItems::NAME)  ->  pbItemBall(:NAME)
 - hasType(), hasItem(), etc. can replace janky code
     > $player.has_pokemon_of_type?(:TYPE)
+
+Trainer:
+    $bag.has?(:ITEM)
+
+Pokemon:
+    pbPlayCry(PBSpecies::NAME) -> Pokemon.play_cry(:NAME)
+
+Battles:
+    pbWildBattle() -> WildBatte.start()
+
+#-------------------------------
+
+TODO
+- Fix opening
+    - Fix graphics during "Gender" selection
+    - Fix SE not playing in opening menu
+    - Fix control responsiveness
+- Drop in Ultimate Move Tutor Plugin (https://reliccastle.com/resources/700/)
+- Set Pokedex correctly - do we just use National?
+    - "Classic" Mode might just be Kanto + Johto?
+- General EDBX battle graphics cleanup
+    - Setting backgrounds, trainer dialogue, etc.
+- Re-enable Pokevial functionality (https://reliccastle.com/resources/405/)
+    - does it need to be registered, or does Anil have it automatically hotkeyed?
+- Re-enable PokeRadar
+- No pokemon cry for Litleo? Check later gen assets for cries, footprint, etc
+
+
+
+- Rebuild Translation files
+- replace TMs with the moves they're actually supposed to be in Anil (i.e. update the TM # to match the move)
+- import remaining unofficial Megas and any other Forms
+- Check that Surf Mount and Fly Mount properly work, can be accessed in UI with Debug OFF
+- Finish Encounter data reformat
+- update audio loop settings
+- check which battlebacks, BGMs, and other assets can be dropped back into EDBX
+- update EDBX UI to be closer to Anil
+
+- Update all Paralyze Heal references
+- Put custom item assets back in (no thumbnail when hovering item in Bag)
+- Fix EDBX Battle Speech (i.e. EndText)
+- pbWildBattle -> WildBattle.start + check arguments:
+   - Ariados in Viridian Gym
+- Double check trainer Event Touch vs Action Button to trigger trainer battles, some seem wrong
+- update instances of $player.has_species?
+- Double check all instances of frame-rate being locked then frame-waiting
+   - Essentials moved away from frame-based timing, need to look at how this affects things
+- Verify Pokemon "Yellow Version" features and ability for Pikachu
 - Replace pbItemBall() with pbReceiveItem() when getting an item FROM someone, 2nd arg can be given for quantity
-- Are double battles working correctly? Should I be in a 2v1, or am I supposed to be fighting alongside someone?
-    ex. Erika & the 2 bikers fight
+- Verify double battles working correctly. Should I be in a 2v1, or am I supposed to be fighting alongside someone (ex. Erika & the 2 bikers fight)
+- re-add fancy badge animations
+- Add UI element to display current Turbo Speed
+- Update keybinds (or just update the Controls picture? Which is more "standard" for pkmn games?)
 
 
-Customizations to fix/update:
-1. Custom Megas 
-    - Pikachu
-    - Lapras
-    - Machamp
-
-
-BUGS/TODO
-1. Pokemon jump/dust? animation is off, the landing part of the jump cloud is too low
-2. Surfing being on without pokemon is a debug feature, right?
-3. 2nd pokemon not properly going out for double battle?
+BUGS:
+- PP Total # appears incorrect after using PP Up (i.e. Flamethrower 24/15)
+- Pokemon jump/dust? animation seems off, the landing part of the jump cloud is too low
+- 2nd pokemon not properly going out for double battle?
     - Mewtwo sprite goes out, Zoroark moveset loads?
     - Used one move then it corrected itself
-4. Move Deleter/Rememberer
-5. Shops/Paralyze Heal
-6. Put custom item assets back in (no thumbnail when hovering item in Bag)
-7. ESCALADA interaction does not trigger
-    - Assuming its similar to 
-8. EBDX missing/broken assets
-    - AI_MoveEffects has_active_ability?
-9. Encounter data reformat
-10. Move all of the Trainer EndSpeech text from the Event and into the Trainer info
-    - See what trainers have mid-fight dialogue
-11. pbWildBattle -> WildBattle.start + check arguments:
-    - Ariados in Viridian Gym
-12. Double check trainer Event Touch vs Action Button to trigger trainer battles, some seem wrong
-13. $player.has_species?
-14. Double check all instances of frame-rate being locked then frame-waiting
-    - Essentials moved away from frame-based timing, need to look at how this affects things
-15. Dragonite sprite didnt appear when Lance saves you from Team Rocket?
-16. Issue with ESCALADA = ON Switch?
-17. Rework the Battlebacks and BGM, see what can be preserved from Anil
-18. Armored Mewtwo fight - nota del juego - este combate no se tiene en cuenta en el reto Nuzlocke
-    -game note - this fight does not count towards the Nuzlocke challenge
-19. "Aspirante David" walked through a different elevation to challenge in Mt Silver
-20. Check Ash's Pikachu form
+- "Aspirante David" walked through a different elevation to challenge in Mt Silver
+
 ---
 IDEAS
 1. Randomize gym leaders but preserve their types, make sure their last Pkmn is their "boss"
 2. Generation on/off from debug
+
+
+
+

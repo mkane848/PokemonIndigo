@@ -1,0 +1,6 @@
+11/22/2023
+    - Rename the "badges" to "plates" to be consistent with existing English translation
+    - Add front sprites for pkmn #720+
+    - update events for Mew encoutner, add Truck Key item
+    - verify map metadata up to [091]  Marengo Town
+    - "Kato run" up to Viridian Forest

@@ -5,10 +5,8 @@ StartMoney = 3000
 StartItemStorage = POTION
 Home = 3,7,5,8
 StorageCreator = Maester
-WildBattleBGM = Salvaje.ogg
-TrainerBattleBGM = Entrenador.ogg
-WildVictoryBGM = Battle victory wild
-TrainerVictoryBGM = Battle victory trainer
+WildBattleBGM = Salvaje
+TrainerBattleBGM = Entrenador
 SurfBGM = Surfing
 BicycleBGM = Bicycle
 #-------------------------------

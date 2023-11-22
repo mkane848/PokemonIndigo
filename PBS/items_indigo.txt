@@ -19,58 +19,58 @@ Flags = KeyItem
 Description = Detect which Pokémon appear in the area.
 #-------------------------------
 [SCapsula]
-Name = Vigor Badge
-NamePlural = Vigor Badges
+Name = Vigor Plate
+NamePlural = Vigor Plates
 Pocket = 2
 Price = 20000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A badge that increases a Pokemon's HP stat.
+Description = A plate that increases a Pokemon's HP stat.
 #-------------------------------
 [ACapsula]
-Name = Strong Badge
-NamePlural = Strong Badges
+Name = Strong Plate
+NamePlural = Strong Plates
 Pocket = 2
 Price = 20000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A badge that increases a Pokemon's Attack statistic.
+Description = A plate that increases a Pokemon's Attack statistic.
 #-------------------------------
 [DCapsula]
-Name = Sturdy Badge
-NamePlural = Sturdy Badges
+Name = Sturdy Plate
+NamePlural = Sturdy Plates
 Pocket = 2
 Price = 20000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A badge that increases a Pokemon's Defense statistic.
+Description = A plate that increases a Pokemon's Defense statistic.
 #-------------------------------
 [AECapsula]
-Name = Wise Badge
-NamePlural = Wise Badges
+Name = Wise Plate
+NamePlural = Wise Plates
 Pocket = 2
 Price = 20000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A badge that increases a Pokemon's Special Attack stat.
+Description = A plate that increases a Pokemon's Special Attack stat.
 #-------------------------------
 [DECapsula]
-Name = Spirit Badge
-NamePlural = Spirit Badges
+Name = Spirit Plate
+NamePlural = Spirit Plates
 Pocket = 2
 Price = 20000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A badge that increases a Pokemon's Special Defense stat.
+Description = A plate that increases a Pokemon's Special Defense stat.
 #-------------------------------
 [VCapsula]
-Name = Momentum Badge
-NamePlural = Momentum Badges
+Name = Momentum Plate
+NamePlural = Momentum Plates
 Pocket = 2
 Price = 20000
 FieldUse = OnPokemon
 Flags = Fling_30
-Description = A badge that increases a Pokemon's Speed stat.
+Description = A plate that increases a Pokemon's Speed stat.
 #-------------------------------
 [TALADOR]
 Name = Axe
@@ -207,3 +207,50 @@ BPPrice = 50
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Machamp hold it, and it will be able to Mega Evolve.
 #-------------------------------
+[INCUBADORA]
+Name = Incubator
+NamePlural = Incubators
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Incubator for raising eggs.
+#-------------------------------
+[DIPLOMA]
+Name = Diploma
+NamePlural = Diplomas
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A diploma for completing the Pokédex.
+#-------------------------------
+[OFRENDAPRISMATICA]
+Name = Ofrenda Prismática
+NamePlural = Ofrenda Prismática
+Pocket = 8
+Price = 0
+Description = Entrégalas en los Altares de las Aves Guardianas.
+Flags = KeyItem
+#-------------------------------
+[MUNECOCOPIONA]
+Name = Pokémuñeco Especial
+NamePlural = Pokémuñeco Especial
+Pocket = 8
+Price = 0
+Description = Pertenece a la Copiona de Ciudad Azafrán.
+Flags = KeyItem
+#-------------------------------
+[RESGUARDO]
+Name = Resguardo
+NamePlural = Resguardo
+Pocket = 8
+Price = 0
+Description = El resguardo de una generosa compra de Leche Mu-Mu.
+Flags = KeyItem
+#-------------------------------
+[LLAVECAMION]
+Name = Truck Key
+NamePlural = Truck Keys
+Pocket = 8
+Price = 0
+Description = Opens the back of a truck.
+Flags = KeyItem

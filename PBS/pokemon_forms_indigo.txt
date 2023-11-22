@@ -4,3 +4,27 @@
 FormName = Armored Mewtwo
 BaseStats = 400,150,250,100,180,250
 #-------------------------------
+[LAPRAS,1]
+FormName = Mega Lapras
+MegaStone = LAPRASITE
+BaseStats = 130,95,100,80,125,105
+Abilities = REFRIGERATE
+#-------------------------------
+[MACHAMP,1]
+FormName = Mega Machamp
+MegaStone = MACHAMPITE
+BaseStats = 90,160,100,75,75,95
+Types = FIGHTING,GROUND
+Abilities = NOGUARD
+#-------------------------------
+[PIKACHU,1]
+# "Yellow Version"
+BaseStats = 55,75,50,110,70,60
+# Abilities = OVERLOAD
+#-------------------------------
+[PIKACHU,2]
+FormName = Mega Pikachu
+MegaStone = PIKACHUITE
+BaseStats = 55,135,100,110,130,100
+# Abilities = OVERLOAD
+#-------------------------------

@@ -68,7 +68,7 @@ OldRodClassic
     70,PSYDUCK,4,6
     30,POLIWAG,4,6
 #-------------------------------
-[005] # Route 22
+[005] # Route 20
 Land,12
     20,NIDORANmA,4,6
     20,NIDORANfE,4,6
@@ -298,6 +298,11 @@ OldRod
 OldRodClassic
     70,SLOWPOKE,14,16
     30,WOOPER,14,16
+#-------------------------------
+
+
+
+
 #-------------------------------
 [119] # Pokemon Mansion 12,10,10
 Land,12

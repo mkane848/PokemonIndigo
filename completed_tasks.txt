@@ -4,3 +4,7 @@
     - update events for Mew encoutner, add Truck Key item
     - verify map metadata up to [091]  Marengo Town
     - "Kato run" up to Viridian Forest
+11/23/2023
+    - finish remaining trainer data from Anil
+    - update Encounter PBS up to Route 6
+    - Kato run up to Cerulean City

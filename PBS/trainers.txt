@@ -6254,3 +6254,582 @@ Pokemon = AZUMARILL,75
 Pokemon = TSAREENA,75
 	IV = 18, 18, 18, 18, 18, 18
 #-------------------------------
+[LIDER1HOENN,Norman]
+Pokemon = SLAKOTH,11
+	Item = SILKSCARF
+	Moves = YAWN,HEADBUTT,ROCKSMASH,SLACKOFF
+	Nature = QUIRKY
+Pokemon = SKITTY,11
+	Item = FOCUSSASH
+	Moves = FAKEOUT,DISARMINGVOICE,CHARM,QUICKATTACK
+    Nature = QUIRKY
+Pokemon = LOUDRED,12
+	Item = SITRUSBERRY
+	Moves = ECHOEDVOICE,WORKUP,BITE,SUPERSONIC
+    Nature = QUIRKY
+#-------------------------------
+[LIDER2HOENN,Candela]
+Pokemon = MAGMAR,21
+	Item = CHARCOAL
+	Moves = INCINERATE,CLEARSMOG,THUNDERPUNCH,WILLOWISP
+    Nature = QUIRKY
+	IV = 13,13,13,13,13,13
+Pokemon = MAGCARGO,21
+	Item = FOCUSSASH
+	Moves = ANCIENTPOWER,INCINERATE,AMNESIA,SCORCHINGSANDS
+    Nature = QUIRKY
+	IV = 13,13,13,13,13,13
+Pokemon = TORKOAL,22
+	Item = SITRUSBERRY
+	Moves = INCINERATE,CLEARSMOG,IRONDEFENSE,ZENHEADBUTT
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 13,13,13,13,13,13
+#-------------------------------
+[LIDER3HOENN,Alana]
+Pokemon = TROPIUS,26
+	Item = YACHEBERRY
+	Moves = TROPKICK,STOMP,SYNTHESIS,LEECHSEED
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = PELIPPER,26
+	Item = MYSTICWATER
+	Moves = BRINE,AIRCUTTER,ROOST,SHOCKWAVE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = SKARMORY,26
+	Item = ROCKYHELMET
+	Moves = AERIALACE,STEELWING,IRONDEFENSE,ROOST
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 15, 15, 15, 15, 15, 15
+Pokemon = ALTARIA,27
+	Item = SITRUSBERRY
+	Moves = DRAGONCLAW,AERIALACE,FLAMETHROWER,WORKUP
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 15, 15, 15, 15, 15, 15
+#-------------------------------
+[LIDER4HOENN,Erico]
+Pokemon = EMOLGA,36
+	Item = ELECTRICGEM
+	Moves = VOLTSWITCH,AIRSLASH,LIGHTSCREEN,ELECTRICTERRAIN
+	AbilityIndex = 1
+	Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = ELECTABUZZ,36
+	Item  = MAGNET
+	Moves = WILDCHARGE,ICEPUNCH,BRICKBREAK,VOLTSWITCH
+    Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = EELEKTROSS,36
+	Item = ASSAULTVEST
+	Moves = DRAINPUNCH,FIREPUNCH,WILDCHARGE,AQUATAIL
+    Nature = QUIRKY
+	IV = 17, 17, 17, 17, 17, 17
+Pokemon = MANECTRIC,37
+	Item = LIFEORB
+	Moves = DISCHARGE,FLAMEBURST,SNARL,CHARGEBEAM
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 17, 17, 17, 17, 17, 17
+#-------------------------------
+[LIDER5HOENN,Petra]
+Items = MEGARING
+Pokemon = AERODACTYL,46
+	Item = AERODACTYLITE
+	Moves = STEALTHROCK,ROCKSLIDE,DUALWINGBEAT,EARTHQUAKE
+	Nature = ADAMANT
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = ARMALDO,46
+	Item = WHITEHERB
+	Moves = XSCISSOR,ROCKSLIDE,AQUATAIL,SHELLSMASH
+    Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = CRADILY,46
+	Item = BIGROOT
+	Moves = GIGADRAIN,STONEEDGE,LEECHSEED,STOCKPILE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 20, 20, 20, 20, 20, 20
+Pokemon = PROBOPASS,47
+	Item = AIRBALLOON
+	Moves = DISCHARGE,FLASHCANNON,POWERGEM,EARTHPOWER
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 20, 20, 20, 20, 20, 20
+#-------------------------------
+[LIDER6HOENN,Marcial]
+Items = MEGARING
+Pokemon = MIENSHAO,50
+	Item = CHOICEBAND
+	Moves = UTURN,HIGHJUMPKICK,BOUNCE,KNOCKOFF
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = LUCARIO,50
+	Item = LIFEORB
+	Moves = AURASPHERE,FLASHCANNON,DARKPULSE,NASTYPLOT
+	Nature = MODEST
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = MACHAMP,51
+	Item = FLAMEORB
+	Moves = BULLETPUNCH,SUPERPOWER,STONEEDGE,THUNDERPUNCH
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = MEDICHAM,51
+	Item = MEDICHAMITE
+	Moves = FAKEOUT,ZENHEADBUTT,HIGHJUMPKICK,ICEPUNCH
+    Nature = QUIRKY
+	IV = 23, 23, 23, 23, 23, 23
+Pokemon = HARIYAMA,52
+	Item = ASSAULTVEST
+	Moves = CLOSECOMBAT,FAKEOUT,EARTHQUAKE,KNOCKOFF
+	AbilityIndex = 0
+	Nature = ADAMANT
+	IV = 23, 23, 23, 23, 23, 23
+#-------------------------------
+[LIDER7HOENN,Plubio]
+Items = MEGARING
+Pokemon = LUDICOLO,55
+	Item = DAMPROCK
+	Moves = RAINDANCE,HYDROPUMP,ICEBEAM,GIGADRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 25,25,25,25,25,25
+Pokemon = GYARADOS,55
+	Item = LIFEORB
+	Moves = AQUATAIL,EARTHQUAKE,ICEFANG,DRAGONDANCE
+	AbilityIndex = 1
+	Nature = QUIRKY
+	IV = 25,25,25,25,25,25
+Pokemon = SHARPEDO,56
+	Item = SHARPEDONITE
+	Moves = LIQUIDATION,ICEFANG,CRUNCH,RAINDANCE
+	Nature = ADAMANT
+	IV = 25,25,25,25,25,25
+Pokemon = KINGDRA,56
+	Item = SCOPELENS
+	Moves = SNIPESHOT,DRAGONPULSE,ICEBEAM,RAINDANCE
+	AbilityIndex = 0
+	Nature = QUIRKY
+	IV = 25,25,25,25,25,25
+Pokemon = MILOTIC,57
+	Item = LEFTOVERS
+	Moves = HYDROPUMP,ICEBEAM,DRAGONPULSE,RECOVER
+	AbilityIndex = 1
+	Nature = MODEST
+	IV = 25,25,25,25,25,25
+#-------------------------------
+[LIDER8HOENN,Vito y Leti]
+Items = MEGARING
+Pokemon = SOLROCK,67
+	Item = FOCUSSASH
+	Moves = LIGHTSCREEN,PROTECT,STONEEDGE,FLAREBLITZ
+	Nature = ADAMANT
+	IV - 27,27,27,27,27,27
+Pokemon = LUNATONE,67
+	Item = FOCUSSASH
+	Moves = REFLECT,HYPNOSIS,PSYCHIC,MOONBLAST
+	Nature = MODEST
+	IV - 27,27,27,27,27,27
+Pokemon = CLAYDOL,67
+	Item = LEFTOVERS
+	Moves = EARTHPOWER,PSYCHIC,SHOREUP,PSYCHICTERRAIN
+    Nature = QUIRKY
+	IV - 27,27,27,27,27,27
+Pokemon = GALLADE,68
+	Item = CHOICESCARF
+	Moves = SACREDSWORD,PSYCHOCUT,NIGHTSLASH,LEAFBLADE
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV - 27,27,27,27,27,27
+Pokemon = GARDEVOIR,68
+	Item = GARDEVOIRITE
+	Moves = HYPERVOICE,PSYCHIC,THUNDERBOLT,PROTECT
+	Nature = MODEST
+	IV - 27,27,27,27,27,27
+#-------------------------------
+[PRISMM,Ivarn]
+Pokemon = URSALUNA,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = PERRSERKER,75
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = LUCARIO,76
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMF,Diana]
+Pokemon = FLORGES,76
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = MISMAGIUS,76
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANO,Noel]
+Pokemon = BEAUTIFLY,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FROSMOTH,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANA,Onsas]
+Pokemon = SCEPTILE,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = LEAVANNY,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMM,Harvey]
+Pokemon = GENGAR,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = ARCANINE,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = TYRANITAR,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMF,Vicenta]
+Pokemon = HIPPOWDON,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FERROTHORN,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANO,Raúl]
+Pokemon = DRAGALGE,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = TREVENANT,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[KARATEKA,Antonio]
+Pokemon = EMBOAR,78
+	Item = MUSCLEBAND
+	Moves = FLAREBLITZ,HAMMERARM,WILDCHARGE,BULKUP
+	IV = 21,21,21,21,21,21
+#-------------------------------
+[KARATEKAA,Shuu]
+Pokemon = LUCARIO,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[FOTOGRAFA,Rose]
+Pokemon = BOUFFALANT,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = EELEKTROSS,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMM,Cristóbal]
+Pokemon = LUXRAY,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GOLURK,78,
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = KOMMOO,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[VETERANO,Santiago]
+Pokemon = VIKAVOLT,77,
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = WYRDEER,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CIENTIFICO,Jorge]
+Pokemon = WOBBUFFET,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PESCADORA,Trini]
+Pokemon = LAPRAS,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SEAKING,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = DREDNAW,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PESCADORA,Lea]
+Pokemon = GASTRODON,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = GRENINJA,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CEREBRITO,Josh]
+Pokemon = BRELOOM,77
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FLYGON,77
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ROCKETO,Serge]
+Pokemon = ZOROARK,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = DUSKNOIR,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CIENTIFICO,Alejandro]
+Pokemon = ORBEETLE,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = BEEDRILL,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ROCKETA,Crissy]
+Pokemon = NIDOKING,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SYLVEON,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ELITEROCKET,Foxua]
+Pokemon = FLYGON,78,
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = HAWLUCHA,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = SIRFETCHD,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[ROCKETA,Sophie]
+Pokemon = EXCADRILL,78
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = CLAWITZER,78
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[PRISMF,Yosimura]
+Pokemon = ARCANINE,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = FERROTHORN,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = DRAPION,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[MEDIUM,Adri]
+Pokemon = MUSHARNA,79
+	IV = 18, 18, 18, 18, 18, 18
+Pokemon = UMBREON,79
+	IV = 18, 18, 18, 18, 18, 18
+#-------------------------------
+[CABALLERO,Eustasio]
+Pokemon = TAUROS,80
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[CABALLERA,Anastasia]
+Pokemon = CHANDELURE,80
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[DAMISELA,Nati]
+Pokemon = DELCATTY,79
+	IV = 18,18,18,18,18,18
+Pokemon = MEGANIUM,79
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[VETERANA,Adriana]
+Pokemon = HERACROSS,79
+	IV = 18,18,18,18,18,18
+Pokemon = SCOLIPEDE,79
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[PRISMM,Carlos]
+Pokemon = EXCADRILL,80
+	IV = 18,18,18,18,18,18
+Pokemon = GLISCOR,80
+	IV = 18,18,18,18,18,18
+Pokemon = GYARADOS,80
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[PESCADOR,Frolo]
+Pokemon = GOREBYSS,80
+	IV = 18,18,18,18,18,18
+Pokemon = HUNTAIL,80
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[PESCADOR,Alejandro]
+Pokemon = GOLURK,80
+    IV = 18,18,18,18,18,18
+Pokemon = PALOSSAND,80
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[NADADORA,Cecilia]
+Pokemon = SAMUROTT,80
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Zaiko y Akkarin]
+Pokemon = SLAKING,81
+    IV = 18,18,18,18,18,18
+Pokemon = INFERNAPE,81
+    IV = 18,18,18,18,18,18
+Pokemon = MIMIKYU,81
+    IV = 18,18,18,18,18,18
+Pokemon = MEOWSCARADA,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Skyflyer y Hellfire]
+Pokemon = GALLADE,81
+    IV = 18,18,18,18,18,18
+Pokemon = DACHSBUN,81
+    IV = 18,18,18,18,18,18
+Pokemon = TYRANITAR,81
+    IV = 18,18,18,18,18,18
+Pokemon = SALAMENCE,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Ranni y Rykard]
+Pokemon = APPLETUN,81
+    IV = 18,18,18,18,18,18
+Pokemon = SNEASLER,81
+    IV = 18,18,18,18,18,18
+Pokemon = HARIYAMA,81
+    IV = 18,18,18,18,18,18
+Pokemon = SERPERIOR,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[DUOPRISMA,Loretta y Blaidd]
+Pokemon = VENOMOTH,81
+    IV = 18,18,18,18,18,18
+Pokemon = CORVIKNIGHT,81
+    IV = 18,18,18,18,18,18
+Pokemon = HAXORUS,81
+    IV = 18,18,18,18,18,18
+Pokemon = BLAZIKEN,81
+    IV = 18,18,18,18,18,18
+#-------------------------------
+[MAXIMO,Máximo]
+Items = MEGARING
+Pokemon = SKARMORY,78
+	Item = REDCARD
+	Moves = STEALTHROCK,IRONHEAD,WHIRLWIND,BRAVEBIRD
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = AGGRON,78
+	Item = AIRBALLOON
+	Moves = IRONHEAD,STONEEDGE,EARTHQUAKE,AQUATAIL
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = CRADILY,78
+	Item = LEFTOVERS
+	Moves = EARTHPOWER,GIGADRAIN,POWERGEM,TOXIC
+	Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = ARMALDO,78
+	Item = CHOICEBAND
+	Moves = STONEEDGE,LEECHLIFE,NIGHTSLASH,AQUATAIL
+	AbilityIndex = 1
+	Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = METAGROSS,79
+	Item = METAGROSSITE
+	Moves = METEORMASH,THUNDERPUNCH,ICEPUNCH,ZENHEADBUTT
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[CINTIA,Cintia]
+Items = MEGARING
+Pokemon = ROSERADE,79
+	Item = WHITEHERB
+	Moves = SLUDGEBOMB,LEAFSTORM,SLEEPPOWDER,DAZZLINGGLEAM
+	Nature = MODEST,
+	IV = 30,30,30,30,30,30
+Pokemon = SPIRITOMB,79
+	Item = LUMBERRY
+	Moves = WILLOWISP,PROTECT,DARKPULSE,CONFUSERAY
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = LUCARIO,79
+	Item = FOCUSSASH
+	Moves = AURASPHERE,FLASHCANNON,DARKPULSE,NASTYPLOT
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = MILOTIC,79
+	Item = LEFTOVERS
+	Moves = SURF,ICEBEAM,RECOVER,HYPNOSIS
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = GARCHOMP,80
+	Item = GARCHOMPITE
+	Moves = EARTHQUAKE,DRAGONCLAW,STONEEDGE,SWORDSDANCE
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[MIRTO,Mirto]
+Pokemon = GALVANTULA,79
+	Item = LIFEORB
+	Moves = THUNDER,BUGBUZZ,STICKYWEB,GIGADRAIN
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = SCOLIPEDE,79
+	Item = FOCUSSASH
+	Moves = MEGAHORN,POISONJAB,EARTHQUAKE,SWORDSDANCE
+	AbilityIndex = 2
+	Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = ACCELGOR,79
+	Item = LIFEORB
+	Moves = BUGBUZZ,FOCUSBLAST,SLUDGEBOMB,GIGADRAIN
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = ESCAVALIER,79
+	Item = CHOICEBAND
+	Moves = XSCISSOR,IRONHEAD,DRILLRUN,CLOSECOMBAT
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = VOLCARONA,80
+	Item = LEFTOVERS
+	Moves = FIERYDANCE,BUGBUZZ,GIGADRAIN,QUIVERDANCE
+	AbilityIndex = 0
+	Nature = MODEST
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[BILL,Bill]
+Pokemon = VAPOREON,78
+	Item = MYSTICWATER
+	Moves = HYDROPUMP,ICEBEAM,ACIDARMOR,AQUARING
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = JOLTEON,78
+	Item = MAGNET
+	Moves = THUNDER,SHADOWBALL,VOLTSWITCH,SIGNALBEAM
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = FLAREON,78
+	Item = CHARCOAL
+	Moves = CRUNCH,FLAREBLITZ,WILLOWISP,STRENGTH
+    Nature = ADAMANT
+	IV = 30,30,30,30,30,30
+Pokemon = ESPEON,78
+	Item = TWISTEDSPOON
+	Moves = PSYCHIC,DAZZLINGGLEAM,SHADOWBALL,FOCUSBLAST
+    Nature = MODEST
+	IV = 30,30,30,30,30,30
+Pokemon = UMBREON,78
+	Item = BLACKGLASSES
+	Moves = FOULPLAY,TOXIC,SWAGGER,MOONLIGHT
+	Nature = BOLD
+	IV = 30,30,30,30,30,30
+#-------------------------------
+[PRISMA,Prisma]
+Items = MEGARING
+Pokemon = ARTICUNO,84
+	Item = WEAKNESSPOLICY
+	Moves = PSYCHIC,AIRSLASH,SHADOWBALL,CALMMIND
+	Form = 1
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = URSALUNA,84
+	Item = ASSAULTVEST
+	Moves = EARTHQUAKE,PLAYROUGH,DRAINPUNCH,ROCKSLIDE
+    Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = ZAPDOS,84
+	Item = LIFEORB
+	Moves = DRILLPECK,CLOSECOMBAT,ACROBATICS,UTURN
+	Form = 1
+	Nature = ADAMANT
+	IV = 31,31,31,31,31,31
+Pokemon = LAPRAS,84
+	Item = LEFTOVERS
+	Moves = ICEBEAM,HYDROPUMP,THUNDERBOLT,PSYCHIC
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = MOLTRES,84
+	Item = CHESTOBERRY
+	Moves = AIRSLASH,DARKPULSE,NASTYPLOT,REST
+	Form = 1
+	Nature = MODEST
+	IV = 31,31,31,31,31,31
+Pokemon = BUTTERFREE,85
+	Item = BUTTERFREEITE
+	Moves = BUGBUZZ,HURRICANE,ROOST,QUIVERDANCE
+    Nature = MODEST
+	IV = 31,31,31,31,31,31
+#-------------------------------

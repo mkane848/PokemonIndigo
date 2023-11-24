@@ -50,16 +50,16 @@ TODO
 - update instances of $player.has_species?
 - Double check all instances of frame-rate being locked then frame-waiting
    - Essentials moved away from frame-based timing, need to look at how this affects things
-- Verify Pokemon "Yellow Version" features and ability for Pikachu
 - Replace pbItemBall() with pbReceiveItem() when getting an item FROM someone, 2nd arg can be given for quantity
-- Verify double battles working correctly. Should I be in a 2v1, or am I supposed to be fighting alongside someone (ex. Erika & the 2 bikers fight)
 - re-add fancy badge animations
 - Add UI element to display current Turbo Speed
 - Update keybinds (or just update the Controls picture? Which is more "standard" for pkmn games?)
+- Verify Pokemon "Yellow Version" features and ability for Pikachu
 
 
 BUGS:
 - PP Total # appears incorrect after using PP Up (i.e. Flamethrower 24/15)
+- Long pause before Evolution cutscene plays
 - Pokemon jump/dust? animation seems off, the landing part of the jump cloud is too low
 - 2nd pokemon not properly going out for double battle?
     - Mewtwo sprite goes out, Zoroark moveset loads?

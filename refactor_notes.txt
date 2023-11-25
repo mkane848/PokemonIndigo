@@ -4,8 +4,10 @@ General Notes:
 - hasType(), hasItem(), etc. can replace janky code
     > $player.has_pokemon_of_type?(:TYPE)
 
-Trainer:
+Player:
     $bag.has?(:ITEM)
+    $player.pokemonParty[0].species==:NINETALES -> $player.first_pokemon.isSpecies?(:NINETALES)
+    pbRemovePokemonAt(0) -> $player.remove_pokemon_at_index(0)
 
 Pokemon:
     pbPlayCry(PBSpecies::NAME) -> Pokemon.play_cry(:NAME)
@@ -29,6 +31,10 @@ TODO
     - does it need to be registered, or does Anil have it automatically hotkeyed?
 - Re-enable PokeRadar
 - No pokemon cry for Litleo? Check later gen assets for cries, footprint, etc
+- Re-enable Trader NPCs
+- Re-enable Trade Experts
+- Cerulean Gym Trainers swimming into wall?
+- Fidough front asset is definitely wrong. Dex entry wrong too? 
 
 
 

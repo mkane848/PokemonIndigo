@@ -8,3 +8,7 @@
     - finish remaining trainer data from Anil
     - update Encounter PBS up to Route 6
     - Kato run up to Cerulean City
+11/24/2023
+    - Update Trader NPCs in Cerulean Cafe
+    - Just got to Vermillion City in Kato run, already got S.S. Ticket from Bill
+    - Encounters updated to include Vermillion

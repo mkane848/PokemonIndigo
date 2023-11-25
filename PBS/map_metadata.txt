@@ -796,7 +796,7 @@ WildBattleBGM = Salvaje
 [108]   # Route 12
 Name = Route 12
 SnapEdges = true
-BattleBack = field
+BattleBack = Pradera
 Outdoor = true
 ShowArea = true
 MapPosition = 0,23,12
@@ -807,11 +807,11 @@ WildBattleBGM = Salvaje
 #-------------------------------
 [109] # Route 24
 Name = Route 24
+MapPosition = 0,19,0
 SnapEdges = true
 Outdoor = true
 ShowArea = true
 BattleBack = Pradera
-MapPosition = 0,19,0
 TrainerVictoryBGM = VictoriaEntrenador
 WildVictoryBGM = VictoriaSalvaje
 TrainerBattleBGM = Entrenador

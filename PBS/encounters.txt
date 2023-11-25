@@ -422,6 +422,28 @@ OldRodClassic
     70,GOLDEEN,20,22
     30,MARILL,20,22
 #-------------------------------
+[019] # Vermillion City 12,2,2
+Land,12
+    20,MAGNEMITE,21,24
+    20,GRIMER,21,24
+    20,DRILBUR,21,24
+    20,SNEASEL,21,24
+    10,PURRLOIN,21,24
+    10,LIEPARD,21,24
+LandClassic,12
+    20,MAGNEMITE,21,24
+    20,GRIMER,21,24
+    20,RATICATE,21,24
+    20,SNEASEL,21,24
+    10,PIDGEOTTO,21,24
+OldRod
+    70,REMORAID,21,24
+    30,CARVANHA,21,24
+OldRodClassic
+    70,REMORAID,21,24
+    30,STARYU,21,24
+
+
 
 # Land Encounter Rate v16
 # 20 
@@ -441,44 +463,6 @@ OldRodClassic
 
 
 
-
-#########################
-
-# #########################
-# 019 # Ciudad Carm�n
-# 12,2,2
-# Land
-# MAGNEMITE,21,24
-# GRIMER,21,24
-# DRILBUR,21,24
-# DRILBUR,21,24
-# PURRLOIN,21,24
-# LIEPARD,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# LandClassic
-# MAGNEMITE,21,24
-# GRIMER,21,24
-# RATICATE,21,24
-# RATICATE,21,24
-# PIDGEOTTO,21,24
-# PIDGEOTTO,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# SNEASEL,21,24
-# OldRod
-# REMORAID,21,24
-# CARVANHA,21,24
-# OldRodClassic
-# REMORAID,21,24
-# STARYU,21,24
 # #########################
 # 020 # Ruta 11
 # 12,2,2

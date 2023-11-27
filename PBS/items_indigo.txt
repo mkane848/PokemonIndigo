@@ -18,60 +18,6 @@ FieldUse = Direct
 Flags = KeyItem
 Description = Detect which Pokémon appear in the area.
 #-------------------------------
-[SCapsula]
-Name = Vigor Plate
-NamePlural = Vigor Plates
-Pocket = 2
-Price = 20000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = A plate that increases a Pokemon's HP stat.
-#-------------------------------
-[ACapsula]
-Name = Strong Plate
-NamePlural = Strong Plates
-Pocket = 2
-Price = 20000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = A plate that increases a Pokemon's Attack statistic.
-#-------------------------------
-[DCapsula]
-Name = Sturdy Plate
-NamePlural = Sturdy Plates
-Pocket = 2
-Price = 20000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = A plate that increases a Pokemon's Defense statistic.
-#-------------------------------
-[AECapsula]
-Name = Wise Plate
-NamePlural = Wise Plates
-Pocket = 2
-Price = 20000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = A plate that increases a Pokemon's Special Attack stat.
-#-------------------------------
-[DECapsula]
-Name = Spirit Plate
-NamePlural = Spirit Plates
-Pocket = 2
-Price = 20000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = A plate that increases a Pokemon's Special Defense stat.
-#-------------------------------
-[VCapsula]
-Name = Momentum Plate
-NamePlural = Momentum Plates
-Pocket = 2
-Price = 20000
-FieldUse = OnPokemon
-Flags = Fling_30
-Description = A plate that increases a Pokemon's Speed stat.
-#-------------------------------
 [TALADOR]
 Name = Axe
 NamePlural = Axes
@@ -97,7 +43,16 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = "Tools to climb a rock wall."
+Description = Tools to climb a rock wall.
+#-------------------------------
+[BONOBICI]
+Name = Bike Voucher
+NamePlural = Bike Vouchers
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Can be exchanged for a bike in Cerulean City.
 #-------------------------------
 [TICKETBARCO]
 Name = S.S. Ticket
@@ -228,7 +183,67 @@ Price = 0
 Description = Opens the back of a truck.
 Flags = KeyItem
 #-------------------------------
+###
+### Plates
+###
+#-------------------------------
+[SCapsula]
+Name = Vigor Plate
+NamePlural = Vigor Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's HP stat.
+#-------------------------------
+[ACapsula]
+Name = Strong Plate
+NamePlural = Strong Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Attack statistic.
+#-------------------------------
+[DCapsula]
+Name = Sturdy Plate
+NamePlural = Sturdy Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Defense statistic.
+#-------------------------------
+[AECapsula]
+Name = Wise Plate
+NamePlural = Wise Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Special Attack stat.
+#-------------------------------
+[DECapsula]
+Name = Spirit Plate
+NamePlural = Spirit Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Special Defense stat.
+#-------------------------------
+[VCapsula]
+Name = Momentum Plate
+NamePlural = Momentum Plates
+Pocket = 2
+Price = 20000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A plate that increases a Pokemon's Speed stat.
+#-------------------------------
+###
 ### Mega Stones 
+###
 #-------------------------------
 [PIKACHUITE]
 Name = Pikachuite

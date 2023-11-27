@@ -12,3 +12,9 @@
     - Update Trader NPCs in Cerulean Cafe
     - Just got to Vermillion City in Kato run, already got S.S. Ticket from Bill
     - Encounters updated to include Vermillion
+
+11/26/2023
+    - Fix Bike Voucher interaction/item
+    - Fix more trade NPCs along the way
+    - More encounter data updated through map [072] route 7
+    - Finish Vermillion Gym in Kato run

@@ -35,6 +35,8 @@ TODO
 - Re-enable Trade Experts
 - Cerulean Gym Trainers swimming into wall?
 - Fidough front asset is definitely wrong. Dex entry wrong too? 
+    - Charcadet moving sprite also incorrect, probably an issue with Anil assets
+    - Sizzlipede no cry
 
 
 

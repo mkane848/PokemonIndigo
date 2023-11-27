@@ -264,7 +264,7 @@ Gender = Female
 SkillLevel = 47
 #-------------------------------
 [LIDER3]
-Mame = Leader
+Name = Leader
 BaseMoney = 150
 BattleBGM = CombateLider
 VictoryBGM = Victoria Importante

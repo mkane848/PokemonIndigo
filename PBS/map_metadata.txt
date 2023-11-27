@@ -546,8 +546,8 @@ WildBattleBGM = Salvaje
 [077]   # Pokémon Center
 Name = Pokémon Center
 #-------------------------------
-[078]   # Centro Comercial
-Name = Centro Comercial
+[078]   # Department Store
+Name = Department Store
 #-------------------------------
 [079]   # Restaurante de Ramen
 Name = Restaurante de Ramen

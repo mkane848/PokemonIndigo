@@ -18,3 +18,5 @@
     - Fix more trade NPCs along the way
     - More encounter data updated through map [072] route 7
     - Finish Vermillion Gym in Kato run
+
+11/27/2023

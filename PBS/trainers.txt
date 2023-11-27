@@ -1776,7 +1776,7 @@ Pokemon = RATICATE,37
 	IV = 11, 11, 11, 11, 11, 11
 #-------------------------------
 [URANO1,Urano]
-Items = HYPERPOTION,HYPERPOTION
+Items = HYPERPOTION,HYPERPOTION,MEGARING
 Pokemon = SCYTHER,40
 	Item = EVIOLITE
 	Moves = UTURN,POUNCE,SWORDSDANCE,AERIALACE
@@ -1800,7 +1800,7 @@ Pokemon = PINSIR,42
 	IV = 14, 14, 14, 14, 14, 14
 #-------------------------------
 [URANO1,Urano,1]
-Items = HYPERPOTION,HYPERPOTION
+Items = HYPERPOTION,HYPERPOTION,MEGARING
 Pokemon = SCYTHER,40
 	Item = EVIOLITE
 	Moves = UTURN,POUNCE,SWORDSDANCE,AERIALACE
@@ -1824,6 +1824,7 @@ Pokemon = PINSIR,42
 	IV = 14, 14, 14, 14, 14, 14
 #-------------------------------
 [URANO1,Urano,2]
+Items = PINSIRITE
 Pokemon = SCYTHER,40
 	Item = EVIOLITE
 	Moves = UTURN,POUNCE,SWORDSDANCE,AERIALACE
@@ -2033,6 +2034,7 @@ Pokemon = VILEPLUME,39
 	IV = 15, 15, 15, 15, 15, 15
 #-------------------------------
 [LIDER4,Erika,2]
+Items = MEGARING
 Pokemon = TANGROWTH,37
 	Item = GRASSGEM
 	Moves = GRASSYGLIDE,SLEEPPOWDER,BRICKBREAK,ROCKSLIDE

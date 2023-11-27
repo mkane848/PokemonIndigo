@@ -34,9 +34,10 @@ TODO
 - Re-enable Trader NPCs
 - Re-enable Trade Experts
 - Cerulean Gym Trainers swimming into wall?
-- Fidough front asset is definitely wrong. Dex entry wrong too? 
+- Fidough front asset is definitely wrong. Dex entry wrong too? -> Greavard seems to have its asset la mao
     - Charcadet moving sprite also incorrect, probably an issue with Anil assets
     - Sizzlipede no cry
+- Game Corner Special NPCs and games
 
 
 

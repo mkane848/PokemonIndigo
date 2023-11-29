@@ -20,3 +20,9 @@
     - Finish Vermillion Gym in Kato run
 
 11/27/2023
+    - Fix some trainers missing Mega Ring
+    - More encounter info updated, up to [105] # Route 18
+    - Kato run up to Erika fight, need to fix Mega Sceptile bug
+
+11/28/2023
+    - Finished encounter data update up to [122] # Pokemon Mansion

@@ -26,3 +26,34 @@
 
 11/28/2023
     - Finished encounter data update up to [122] # Pokemon Mansion
+
+11/29/2023
+    - Game didn't crash during Erika fight this time, still want to investigate
+    - Went back to Pokemon Tower, finished Urano 1 fight
+
+12/12/2023
+    - Get Pokeflute, fight snorlax, go to Merango Town
+    - Beat Agatha, get Mega Ring
+    - Start updating Mega Stone vendors
+
+12/13/2023
+    - Finish updating Mega Stone vendors, adding needed megas when needed
+    - Beat Rival fight
+    - Skipped Safari Zone with no remorse
+    - Beat Koga
+    - Cleared Bike Path of the Gang 
+    - Beat 2nd Snorlax
+    - Gave Tea to guards outside of Saffron
+    - Clear Silph Co, beat Gio
+    - Beat Saffron Gym, get Surf Mount, get into Seafoam Islands caves
+    - Complete encounter updates up through map 174 Celestial Forest
+
+12/14/2023
+    - Finish all Encounters
+
+12/15/2023
+    - Finish all map metadata
+    - Through Seafoam, finished Mansion and Surya fight, fought Blaine, fixed Mega Ring missing on [Blaine,2]
+    - Gio/Mewtwo fight done, Urano done, E4 + Rival done!
+    - Update Move Tutor NPC
+    - Re-import all gen8/gen9 style sprites and assets

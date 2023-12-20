@@ -1,3 +1,19 @@
+MVP To-Do
+- Test randomizer functionality of EBDX
+- EBDX fixes
+    - Includes everything about battle UI, sprite, etc. Will get more granular when I start working on it
+- Re-enable PokeRadar
+- Re-enable or just temporarily remove Trade Experts to avoid on-stream crash
+- Re-enable Fly and Surf Mounts (low prio tho since we can Debug menu travel and walk on water)
+- Properly set music during Mewtwo "boss" fight, also test if fight is too easy in current state
+- Rebuild the translation files
+    -Some unknown unknowns with this, but I believe I can utilize new code from v21 to pull the English translation from v16.
+    Medium priority because essential game text is English, reading is for suckers, and mash A Andys won't notice anyway
+- Figure out issues with Metrics for gen 9 pokemon
+- get animated sprites back
+- get custom sprites (megas, Maidible, Armor Mewtwo, etc) back
+
+
 General Notes:
 - :: references to Pkmn or item names need to be removed
     ex.  pbItemBall(PBItems::NAME)  ->  pbItemBall(:NAME)
@@ -14,7 +30,6 @@ Pokemon:
 
 Battles:
     pbWildBattle() -> WildBatte.start()
-
 #-------------------------------
 
 TODO
@@ -22,7 +37,6 @@ TODO
     - Fix graphics during "Gender" selection
     - Fix SE not playing in opening menu
     - Fix control responsiveness
-- Drop in Ultimate Move Tutor Plugin (https://reliccastle.com/resources/700/)
 - Set Pokedex correctly - do we just use National?
     - "Classic" Mode might just be Kanto + Johto?
 - General EDBX battle graphics cleanup
@@ -38,6 +52,11 @@ TODO
     - Charcadet moving sprite also incorrect, probably an issue with Anil assets
     - Sizzlipede no cry
 - Game Corner Special NPCs and games
+- Enable Surf Mount (low prio when you walk on water)
+- Fix Seaform Island transitions, warps you halfway across the map
+- Finish trading NPC in Cinnabar Lab
+- Mewtwo Boss Music
+- Mewtwo Boss Tuning
 
 
 
@@ -53,8 +72,6 @@ TODO
 - Update all Paralyze Heal references
 - Put custom item assets back in (no thumbnail when hovering item in Bag)
 - Fix EDBX Battle Speech (i.e. EndText)
-- pbWildBattle -> WildBattle.start + check arguments:
-   - Ariados in Viridian Gym
 - Double check trainer Event Touch vs Action Button to trigger trainer battles, some seem wrong
 - update instances of $player.has_species?
 - Double check all instances of frame-rate being locked then frame-waiting
@@ -74,12 +91,9 @@ BUGS:
     - Mewtwo sprite goes out, Zoroark moveset loads?
     - Used one move then it corrected itself
 - "Aspirante David" walked through a different elevation to challenge in Mt Silver
+- Game crashes after beating E4/Rival due to call to Global.Nuzlocke
 
 ---
 IDEAS
 1. Randomize gym leaders but preserve their types, make sure their last Pkmn is their "boss"
 2. Generation on/off from debug
-
-
-
-

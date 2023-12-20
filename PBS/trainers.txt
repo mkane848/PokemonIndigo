@@ -4215,6 +4215,7 @@ Pokemon = HOUNDOOM,59
 	IV = 21, 21, 21, 21, 21, 21
 #-------------------------------
 [LIDER7,Blaine,2]
+Items = MEGARING
 Pokemon = TORKOAL,56
 	Item = HEATROCK
 	Moves = LAVAPLUME,SOLARBEAM,EARTHPOWER,STEALTHROCK

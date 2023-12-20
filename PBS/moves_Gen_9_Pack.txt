@@ -943,15 +943,3 @@ Target = NearOther
 FunctionCode = TypeIsUserSecondType
 Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
 Description = An ivy-wrapped cudgel strike with a high critical-hit ratio. Type changes based on the user's Mask.
-#-------------------------------
-[TERABLAST]
-Name = Tera Blast
-Type = NORMAL
-Category = Special
-Power = 80
-Accuracy = 100
-TotalPP = 10
-Target = NearOther
-FunctionCode = CategoryDependsOnHigherDamageTera
-Flags = CanProtect,CanMirrorMove,CantMaster
-Description = Move type changes to match a Terastallized user's Tera Type. Deals damage based on user's higher stat.
